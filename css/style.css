@@ -1,0 +1,11 @@
+.field {
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}
+td{
+    text-align: center;
+}
+.checked{
+    background-color: darkgray;
+}
