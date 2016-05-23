@@ -1,11 +1,26 @@
-.field {
-    cursor: pointer;
-    width: 100%;
-    height: 100%;
-}
-td{
+h1{
     text-align: center;
 }
+
+#tictac_table{
+    margin: auto;
+}
+
+.field {
+    cursor: pointer;
+    width: 20px;
+    height: 20px
+}
+
 .checked{
     background-color: darkgray;
+}
+
+table{
+    border: 2px double black;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
 }
